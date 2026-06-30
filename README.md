@@ -140,6 +140,6 @@ GLOBAL_SUPERSTORE/
 
 ## Author
 
-**Behnia Shaygan**
+**Behnia Shayeste**
 
 This project was developed as part of a Data Analytics portfolio to demonstrate practical skills in business-oriented data analysis using Python.
