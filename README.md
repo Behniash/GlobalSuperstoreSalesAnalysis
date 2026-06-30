@@ -79,10 +79,3 @@ The analysis is based on the Global Superstore transactional dataset covering th
 - Customer Lifetime Value (CLV)
 - Machine Learning Models
 
----
-
-## Author
-
-**Behnia Shayeste**
-
-This project was developed as part of a Data Analytics portfolio to demonstrate practical skills in business-oriented data analysis using Python.
